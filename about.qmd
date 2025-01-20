@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-About this site
+About this site.
+
+Test text.
 
 ```{r}
 1 + 1
