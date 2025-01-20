@@ -6,6 +6,8 @@ About this site.
 
 Test text.
 
+New test text.
+
 ```{r}
 1 + 1
 ```
